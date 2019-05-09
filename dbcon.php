@@ -10,7 +10,7 @@
 
 
   // connect to the database
-  $db = mysqli_connect('localhost', 'root', '' , 'sevena_db');
+  $db = mysqli_connect('sevana-test.mysql.database.azure.com', 'sevana_admin@sevana-test', 'kumu@123' , 'sevana_db');
 
 
 
